@@ -10,7 +10,7 @@ Some scripts to launch applications bound to specific network adapters on Window
     - Line 12 **IPv4-Adresse**
     - Line 18 **(Bevorzugt)**
 4. Run *wireless_lan_ip_refresh.bat*, a text file *wireless_lan_ip_current.txt* should appear containing **only** your current wireless lan IPv4 address
-5. Edit the paths of the executables of Chrome in *run_chrome_bound_to_wlan.bat* and MS Outlook in *run_outlook_bound_wlan.bat* 
+5. Edit the paths of the executables of Chrome in *run_chrome_bound_to_wlan.bat* and MS Outlook in *run_outlook_bound_to_wlan.bat* 
 6. Create similar *.bat* files for other programs
 
 ## Usage
